@@ -1,0 +1,36 @@
+#warning{
+	width: 25%;
+}
+
+#media{
+	width: 35%;
+	height: 25%;
+}
+
+img{
+	width: 500px;
+	height: 300px;
+}
+
+#carouselExampleIndicators {
+	width: 800px;
+	display: block;
+	margin: 0 auto;
+}
+
+#jumbo{
+	background: white; opacity:0.8;
+}
+
+#picture {
+	width: 10%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+
+.btn-primary{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+
